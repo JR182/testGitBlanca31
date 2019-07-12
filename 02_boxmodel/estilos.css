@@ -1,0 +1,37 @@
+h1{
+border: solid 1px rgb(212, 126, 27);
+display: inline;
+padding: 15px;
+background: black;
+color: #fff;
+margin-right: 30px;
+}
+
+h2{
+border: solid 1px blue;
+height: 4em;
+width: 200px;
+display: inline-block;
+background: orange;
+margin: 30px 10px;
+}
+
+p{
+border: solid 1px green;
+}
+
+a{
+border: solid 1px red;
+}
+
+.seccion1{
+    border: solid 1px blue;
+    width: 50%;
+    height: 300px;
+}
+
+.seccion2{
+    border: solid 1px violet;
+    width: 55%;
+    height: 200px;
+}

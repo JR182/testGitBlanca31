@@ -1,0 +1,40 @@
+h1{
+    border: solid 1px black;
+    /* height: 100px;
+    width: 100px; */
+}
+
+.caja1{
+    border: solid 1px blue;
+    width: 650px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    border: solid 1px green;
+    width: 200px;
+    height: 200px;
+    background-image: url(https://img.lovepik.com/element/40101/1775.png_860.png);
+    background-size: cover;
+    background-position: center center;
+}
+
+h3{
+    border: solid 1px green;
+    width: 200px;
+    height: 200px;
+    background-image: url(http://www.territorioebook.com/jambrina/blog/wp-content/uploads/600px-Rock-paper-scissors_paper.png);
+    background-size: cover;
+    background-position: center center;
+}
+
+h4{
+    border: solid 1px green;
+    width: 200px;
+    height: 200px;
+    background-image: url(https://vignette.wikia.nocookie.net/animeworld/images/6/62/600px-Rock-paper-scissors_%28scissors%29.png/revision/latest?cb=20100509011711&path-prefix=es);
+    background-size: cover;
+    background-position: center center;
+}
